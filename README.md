@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je suis [Votre Nom] 👋</h1>
+<h1 align="center">Bonjour, je suis [RAFANOMEZANTSOA Santatriniaina Eric] 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Status" />
@@ -16,7 +16,7 @@
 
 Je suis un développeur passionné par la création d'applications web modernes et intuitives. Mon expertise principale est en développement backend avec Django, et j'aime aussi travailler sur le frontend avec HTML, CSS, Bootstrap, et JavaScript.
 
-- 🌱 Je travaille actuellement sur **Reservation-Place**, un projet de réservation de services.
+- 🌱 Je travaille actuellement sur **Prestataire de service mecanicien**.
 - 💼 Mon portfolio : [Lien vers votre portfolio](https://votre-portfolio.com)
 - 📫 Comment me contacter : [votre-email@example.com](mailto:votre-email@example.com)
 
