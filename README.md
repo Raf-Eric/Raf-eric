@@ -18,7 +18,7 @@ Je suis un développeur passionné par la création d'applications web modernes 
 
 - 🌱 Je travaille actuellement sur **Prestataire de service mecanicien**.
 - 💼 Mon portfolio : [Lien vers votre portfolio](https://votre-portfolio.com)
-- 📫 Comment me contacter : [votre-email@example.com](mailto:votre-email@example.com)
+- 📫 Comment me contacter : [santatrarafanomezantsoa20@gmail.com](mailto:santatrarafanomezantsoa20@gmail.com)
 
 ---
 
