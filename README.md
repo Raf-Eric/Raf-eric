@@ -42,18 +42,11 @@ Je suis un développeur passionné par la création d'applications web modernes 
 - [**Reservation-Place**](https://github.com/votre-utilisateur/reservation-place) : Une application de réservation de services utilisant Django et Bootstrap.
 - [**Autre Projet**](https://github.com/votre-utilisateur/autre-projet) : Description brève de l'autre projet.
 
----
 
-### 📈 Expérience
-
-- **Développeur Backend** chez [Nom de l'entreprise] (Période)
-  - Description des responsabilités et des réalisations.
-
----
 
 ### 🎓 Éducation
 
-- **Diplôme** en [Votre domaine d'étude] de [Nom de l'institution] (Année de graduation)
+- **Diplôme** en [Information de Gestion] de [L'IS-INFO] (2022-2023)
 
 ---
 
